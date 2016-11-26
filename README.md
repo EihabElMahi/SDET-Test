@@ -28,7 +28,7 @@ are used in defining the way of looking for web elements on the page.
 +Have an issue on Microsoft Edge web driver. I fails to recognise the ropdown option been set! It is recognised when using the mouse.
 +I did not find a solution to this during the time of the test, but will keep looking.
 
-NuGet packages installed:
+#NuGet packages installed:
 +	- NUnit						3.5.0
 +	- Selenium.Support				3.0.1
 +	- Selenium.WebDriver				3.0.1
