@@ -1,10 +1,10 @@
-﻿##BGL Business Technology SDET Test
+##BGL Business Technology SDET Test
 
 Candidate: Eihab El-Mahi
 
 Freameworks used:
-	- NUnit 
-	- Selenium
++	- NUnit 
++	- Selenium
 	
 I have chose to use the NUnit to take advantage to its' matured features of the "SetUp", "Test", and "TearDown" 
 which allows for cleanup at the end of the test process.
@@ -29,9 +29,9 @@ Have an issue on Microsoft Edge web driver. I fails to recognise the ropdown opt
 I did not find a solution to this during the time of the test, but will keep looking.
 
 NuGet packages installed:
-	- NUnit									3.5.0
-	- Selenium.Support						3.0.1
-	- Selenium.WebDriver					3.0.1
-	- Selenium.WebDriver.ChromeDriver		3.0.1
-	- Selenium.WebDriver.IEDriver			3.0.1
-	- Selenium.WebDriver.MicrosoftWebDriver	10.0.14393.0
++	- NUnit						3.5.0
++	- Selenium.Support				3.0.1
++	- Selenium.WebDriver				3.0.1
++	- Selenium.WebDriver.ChromeDriver		3.0.1
++	- Selenium.WebDriver.IEDriver			3.0.1
++	- Selenium.WebDriver.MicrosoftWebDriver		10.0.14393.0
